@@ -1,4 +1,4 @@
-# MultielectrodeArrayDataVisualization (developed in C#)
+# 1. MultielectrodeArrayDataVisualization (developed in C#)
 As part of my PhD thesis work, I collected multi-electrode array recordings(time-series) from dissociated hippocampal cell cultures from Sprague Dawley rats using a tool provided by Multichannelsystems (MCS). Although the MCS tool was useful for collecting the raw neuronal activity data, I wanted to visualize these time-series signals captured from different electrodes. Therefore  I developed my own data visualization tool in csharp using APIs provided from Multichannel systems.
 
 OUTPUT:
