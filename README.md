@@ -4,6 +4,6 @@ As part of my PhD thesis work, I collected multi-electrode array recordings(time
 OUTPUT:
 1) All the "Form" objects (eg Form1.cs, frmFileExport.cs) along with the functionality were created by me to visualize the data. The functionality developed include, visualizing the raw data from all electrodes, aligned in time, filtering the data, detecting spikes that cross a certain threshold (which correspond to neuronal spiking activity), visualizing data in different time resolution windows (2 secs, 10 sec, 30 secs, 10 mins, 60 mins etc).
 
-2) Also included are the screenshots of the final desktop application that was created to visualize multi electrode arrays and to perform analysis such as filtering, spike detection etc.
- - Visualization1_MultiElectrodeArrayRecordings.png
- - Visualization2_MultiElectrodeArrayRecordings.png
+
+![Visualization1_MultiElectrodeArrayRecordings](https://user-images.githubusercontent.com/50377837/103706122-2c626500-4f61-11eb-9153-3275c7e16a21.png)
+![Visualization2_SoftwareFunctionality](https://user-images.githubusercontent.com/50377837/103706131-308e8280-4f61-11eb-9cec-54498a1f2bd1.png)
